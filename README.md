@@ -1,1 +1,2 @@
-# CreateBlendTree
+# CreateBlendTree  
+ProjectのCreateメニューからBlendTreeファイルを作成するためのエディタ拡張
